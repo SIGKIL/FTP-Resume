@@ -1,2 +1,1 @@
-from .resume import FTPResume
-from .file_writer import FTPFileWriter
+__VERSION__ = "1.0.0"
